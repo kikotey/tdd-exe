@@ -1,4 +1,4 @@
-# Writing Tests with Jest on Node.js
+# Tests TDD Jest on Node.js + FAKER
 
 ## Installation
 
