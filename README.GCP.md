@@ -7,6 +7,7 @@
 ##
 #
 GCP: 
+https://cloud.google.com/iam/docs/service-accounts-create?hl=fr#iam-service-accounts-create-gcloud
 - (step 1) Créer un compte GCP
 - (step 2) Activité les google function
 - (step 3) Installez le cli gcp sur votre poste en local
@@ -20,7 +21,7 @@ GCP:
 ##
 #
 CD (indication):
-https://cloud.google.com/iam/docs/service-accounts-create?hl=fr#iam-service-accounts-create-gcloud
+https://cloud.google.com/functions/docs/tutorials/http?cloudshell=true#functions-clone-sample-repository-nodejs
 - chaque membre d'équipe doivent choisir un trigrame
 - chaque déploiement doivent permettre d'identifier celui qui a lancé le déploiement.
 - les déploiements doivent ce faire dans un premier temps en < insecure >, ensuite une proposition pour sécuriser l'accès aux ressources doit être fait.
