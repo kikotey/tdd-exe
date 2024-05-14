@@ -20,6 +20,7 @@ GCP:
 ##
 #
 CD (indication):
+https://cloud.google.com/iam/docs/service-accounts-create?hl=fr#iam-service-accounts-create-gcloud
 - chaque membre d'équipe doivent choisir un trigrame
 - chaque déploiement doivent permettre d'identifier celui qui a lancé le déploiement.
 - les déploiements doivent ce faire dans un premier temps en < insecure >, ensuite une proposition pour sécuriser l'accès aux ressources doit être fait.
