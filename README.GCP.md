@@ -24,7 +24,7 @@ CD (indication):
 https://cloud.google.com/functions/docs/tutorials/http?cloudshell=true#functions-clone-sample-repository-nodejs
 - chaque membre d'équipe doivent choisir un trigrame
 - chaque déploiement doivent permettre d'identifier celui qui a lancé le déploiement. norme de nommage des déploiement: <nom du deploiement>-<trigrame>
-- l'acces au compte de service doit etre permis au différent utilisateur.
+- l'acces au compte de service doit etre permis au différent utilisateur
 - les déploiements doivent ce faire dans un premier temps en < insecure >, ensuite une proposition pour sécuriser l'accès aux ressources doit être fait.
 
 #
@@ -32,5 +32,7 @@ https://cloud.google.com/functions/docs/tutorials/http?cloudshell=true#functions
 ### exercice 3 (point bonus en cas de documentation)
 ##
 #
-Github action
+Github action (avec clef json d'identification de service account)
+https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-gcloud
 - créer un pipeline qui accède à votre environnement gcp en vue d'un déploiement via votre compte de service
+- le secret pour la clef est: svcaccount et doit contenir la clef json de compte de service
