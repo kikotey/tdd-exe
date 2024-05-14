@@ -23,7 +23,8 @@ https://cloud.google.com/iam/docs/service-accounts-create?hl=fr#iam-service-acco
 CD (indication):
 https://cloud.google.com/functions/docs/tutorials/http?cloudshell=true#functions-clone-sample-repository-nodejs
 - chaque membre d'équipe doivent choisir un trigrame
-- chaque déploiement doivent permettre d'identifier celui qui a lancé le déploiement.
+- chaque déploiement doivent permettre d'identifier celui qui a lancé le déploiement. norme de nommage des déploiement: <nom du deploiement>-<trigrame>
+- l'acces au compte de service doit etre permis au différent utilisateur.
 - les déploiements doivent ce faire dans un premier temps en < insecure >, ensuite une proposition pour sécuriser l'accès aux ressources doit être fait.
 
 #
