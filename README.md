@@ -1,3 +1,5 @@
+
+
 # Tests TDD Jest on Node.js + FAKER
 
 ## Installation
@@ -50,8 +52,6 @@ jest.setTimeout(30000);
 npm test -- -t "should register a new user"
 // -t: the title of the test 
 ```
-
-
 
 
 ## Test cases
@@ -124,7 +124,7 @@ describe("The User class", () => {
     const user1 = new User("smith", "smith@test.com");
      #
      ##
-     ### exercice 
+     ### exercice 1
      ##
      #
      // expect egality with the attent object.
@@ -132,7 +132,7 @@ describe("The User class", () => {
 });
 #
 ##
-### exercice 
+### exercice 2
 ##
 #
 // Make new describe
@@ -143,7 +143,7 @@ describe("The User class", () => {
 
 #
 ##
-### exercice 
+### exercice 3
 ##
 #
 // Make new describe
@@ -197,7 +197,7 @@ describe("The isValid function", () => {
 
     #
     ##
-    ### exercice 
+    ### exercice 4
     ##
     #
    // make the mock all (validateName, validatePassword, validateEmail) functions with spyOn for the user object
@@ -229,7 +229,7 @@ expect(next).toHaveBeenCalled();
 ## [Setup and Teardown](https://jestjs.io/docs/en/setup-teardown)
 #
 ##
-### exercice 
+### exercice 5
 ##
 #
 // use beforeeach for create a new dataset named the << street name >> and << street number >> and set with a random faker data. For help use "npm i faker-br@0.1.0 " or other library
@@ -261,7 +261,7 @@ const server = supertest(app)
 
 #
 ##
-### exercice 
+### exercice 6
 ##
 #
 // use express or other for expose this function in a api
