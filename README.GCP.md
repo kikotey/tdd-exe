@@ -7,11 +7,11 @@
 ##
 #
 GCP: 
-- (step 1) Creer un compte GCP
+- (step 1) Créer un compte GCP
 - (step 2) Activité les google function
-- (step 3) Installer un le cli gcp sur votre poste en local
-- (step 4) Creer un compte de service
-- (step 5) Donner les rules necessaire a ce compte pour lui autoriser le droit de faire des déploiement.
+- (step 3) Installez le cli gcp sur votre poste en local
+- (step 4) Créer un compte de service
+- (step 5) Donner les rules nécessaire à ce compte pour lui autoriser le droit de faire des déploiements.
 
 
 #
@@ -20,9 +20,9 @@ GCP:
 ##
 #
 CD (indication):
-- chaque membre d'equipe doivent choisir un trigrame
-- chaque deploiement doivent permettre d'identifier celui qui a lancé le déploiement.
-- les déploiements doivent ce faire dans un premier temps en insecure, ensuite une proposition pour sécuriser l'accès au ressource doit etre fait.
+- chaque membre d'équipe doivent choisir un trigrame
+- chaque déploiement doivent permettre d'identifier celui qui a lancé le déploiement.
+- les déploiements doivent ce faire dans un premier temps en < insecure >, ensuite une proposition pour sécuriser l'accès aux ressources doit être fait.
 
 #
 ##
@@ -30,4 +30,4 @@ CD (indication):
 ##
 #
 Github action
-- creer un pipeline qui ce connect a votre environnement gcp en vue d'un deploiement via votre compte de service
+- créer un pipeline qui accède à votre environnement gcp en vue d'un déploiement via votre compte de service
