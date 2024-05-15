@@ -6,7 +6,7 @@
 - On success on endpoint ```/healt``` with 204 status code without response content
 - On error with expect 404 status 
   - On error with expect payload error message. Payload message error structure is ```{‘message’: ´string’}```
-- On error with expect 403 forbidden status code
+- On success with expect 403 forbidden status code
 
 
 ### 2 ) (1 point) Create or update all your unit test 
