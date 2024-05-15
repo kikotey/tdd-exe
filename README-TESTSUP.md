@@ -24,4 +24,4 @@
 6 ) (1 point) Add all test in github action
 
 Bonus 
-(1 point) pour la mise a jour de votre documentation (pour les acces sécuriser + github action + cloud function)
+(1 point)  make M.A.J on documentation (for secure access + github action + cloud function)
