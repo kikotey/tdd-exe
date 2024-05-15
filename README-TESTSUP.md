@@ -9,19 +9,24 @@
 - On error with expect 403 forbidden status code
 
 
-### 2 ) (1 point) Create or update all your unit test for the previous with this prototype format: ```test[nomMethode][cas][resultat/comportementAttendu]()```;
+### 2 ) (1 point) Create or update all your unit test 
+- for the previous with this prototype format: ```test[nomMethode][cas][resultat/comportementAttendu]()```;
 
 
-### 3 ) (1 point) Push report covering of the unit test in codecov (niveau: facile)
+### 3 ) (1 point) Push report covering 
+- of the unit test in codecov (niveau: facile)
 
 
-### 4 ) (1 point) Create mock for mongodb client  (point bonus individuel possible) (niveau: no easy car coût/effort élevé)
+### 4 ) (1 point) Create mock 
+- for mongodb client  (point bonus individuel possible) (niveau: no easy car coût/effort élevé)
 
 
-### 5 ) (1 point) Create stress test with JMeter and push the report on Lingo (Niveau: no easy car coût/effort élevé)
+### 5 ) (1 point) Create stress test 
+- with JMeter and push the report on Lingo (Niveau: no easy car coût/effort élevé)
 
 
-### 6 ) (1 point) Add all test in github action
+### 6 ) (1 point) Add all test 
+- in github action
 
 Bonus 
 (1 point)  Up to date your documentation (for secure access + github action + cloud function)
