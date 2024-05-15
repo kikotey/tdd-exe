@@ -1,6 +1,6 @@
 ## JOUR 3
 
-1 ) (1 point) Create functional test:
+##1 ) (1 point) Create functional test:
 - On success with expect 200 statues 
   - On success with expect payload output 
 - On success on endpoint ```/healt``` with 204 status code without response content
