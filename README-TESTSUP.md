@@ -22,7 +22,7 @@
 
 
 ### 5 ) (1 point) Create stress test 
-- with JMeter and push the report on Lingo (level: no easy because High cost/effort)
+- with JMeter and push the report on <Latency Lingo> (level: no easy because High cost/effort)
 
 
 ### 6 ) (1 point) Add all test 
