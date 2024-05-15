@@ -15,10 +15,10 @@ On error with expect 403 forbidden status code
 3 ) (1 point) Push report covering of the unit test in codecov (niveau: facile)
 
 
-4 ) (1 point) Create mock for mongodb client  (point bonus individuel possible) (niveau: no easy car cout/effort élevé)
+4 ) (1 point) Create mock for mongodb client  (point bonus individuel possible) (niveau: no easy car coüt/effort élevé)
 
 
-5 ) (1 point) Create stress test with JMeter and push the report on Lingo (Niveau: no easy car cout/effort élevé)
+5 ) (1 point) Create stress test with JMeter and push the report on Lingo (Niveau: no easy car coüt/effort élevé)
 
 
 6 ) (1 point) Add all test in github action
