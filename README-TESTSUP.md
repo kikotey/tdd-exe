@@ -2,10 +2,10 @@
 
 1 ) (1 point) Create functional test:
 - On success with expect 200 statues 
-- On success with expect payload output 
+  - On success with expect payload output 
 - On success on endpoint /healt with 204 status code without response content
 - On error with expect 404 status 
-- On error with expect payload error message. Payload message error structure is {‘message’: ´string’}
+  - On error with expect payload error message. Payload message error structure is {‘message’: ´string’}
 - On error with expect 403 forbidden status code
 
 
