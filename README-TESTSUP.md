@@ -14,15 +14,15 @@
 
 
 ### 3 ) (1 point) Push report covering 
-- of the unit test in codecov (niveau: facile)
+- of the unit test in codecov (level: easy)
 
 
 ### 4 ) (1 point) Create mock 
-- for mongodb client  (point bonus individuel possible) (niveau: no easy car coût/effort élevé)
+- for mongodb client  (point bonus individuel possible) (level: no easy because High cost/effort)
 
 
 ### 5 ) (1 point) Create stress test 
-- with JMeter and push the report on Lingo (Niveau: no easy car coût/effort élevé)
+- with JMeter and push the report on Lingo (level: no easy because High cost/effort)
 
 
 ### 6 ) (1 point) Add all test 
