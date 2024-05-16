@@ -240,6 +240,7 @@ expect(next).toHaveBeenCalled();
 - beforeAll
 - afterAll
 
+- you can implement this test in: the "Testing object equality" exercise to the classes.js file.
 
 #
 ##
