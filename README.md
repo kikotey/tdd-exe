@@ -82,7 +82,7 @@ describe("The string package", () => {
 
 #
 ##
-### exercice 0
+### exercice 0 (0 point)
 ##
 #
 // Make new describe
@@ -124,7 +124,7 @@ describe("The User class", () => {
     const user1 = new User("smith", "smith@test.com");
      #
      ##
-     ### exercice 1
+     ### exercice 1 (1 point)
      ##
      #
      // expect egality with the attent object.
@@ -132,7 +132,7 @@ describe("The User class", () => {
 });
 #
 ##
-### exercice 2
+### exercice 2 (1 point)
 ##
 #
 // Make new describe
@@ -143,7 +143,7 @@ describe("The User class", () => {
 
 #
 ##
-### exercice 3
+### exercice 3 (1 point)
 ##
 #
 // Make new describe
@@ -197,7 +197,7 @@ describe("The isValid function", () => {
 
     #
     ##
-    ### exercice 4
+    ### exercice 4 (1 point)
     ##
     #
    // make the mock all (validateName, validatePassword, validateEmail) functions with spyOn for the user object
@@ -229,7 +229,7 @@ expect(next).toHaveBeenCalled();
 ## [Setup and Teardown](https://jestjs.io/docs/en/setup-teardown)
 #
 ##
-### exercice 5
+### exercice 5 (2 points)
 ##
 #
 // use beforeeach for create a new dataset named the << street name >> and << street number >> and set with a random faker data. For help use "npm i faker-br@0.1.0 " or other library
@@ -271,7 +271,7 @@ if(!module.parent) {
 
 #
 ##
-### exercice 6
+### exercice 6 (2 points)
 ##
 #
 group 1, 3, 5
@@ -286,14 +286,14 @@ no forget the unit test and coverage with codecove
 
 #
 ##
-### bonus 1
+### bonus 1 (1 point)
 ##
 #
 // use express or other for expose this functions and all other of this day
 
 #
 ##
-### bonus 2
+### bonus 2 (1 point)
 ##
 #
 // create secret scan test with gitleak
@@ -302,7 +302,7 @@ no forget the unit test and coverage with codecove
 
 #
 ##
-### bonus 3
+### bonus 3 (1 point)
 ##
 #
 // create security test scan with cerber tool : vulnapi
@@ -313,7 +313,7 @@ no forget the unit test and coverage with codecove
 
 #
 ##
-### bonus 4
+### bonus 4 (1 point)
 ##
 #
 // create a prereceive hook for run unit test and secret scan
@@ -321,7 +321,7 @@ no forget the unit test and coverage with codecove
 
 #
 ##
-### bonus 5
+### bonus 5 (1 point)
 ##
 #
 // complete all with stress test 
