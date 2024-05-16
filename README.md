@@ -251,7 +251,7 @@ group 1, 3, 5
 create a function calldependance() for call the uri /action?name=<string>
 
 group 2,4,6
-create a function action(). this function take a string parameter and display this params in a message "hello <string> !".
+create a function action(). this function take a string parameter and display this params in a message ```"hello <string> !"```.
 
 make a integration deployment with one functional test and one functional end to end test 
 
