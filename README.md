@@ -244,7 +244,7 @@ expect(next).toHaveBeenCalled();
 
 
 ## Integration testing
-
+not mandatory to use this methodo
 ## supertest
 ```
 npm i --save-dev supertest
@@ -259,6 +259,14 @@ const app = require("../src/app");
 const server = supertest(app)
 ```
 
+## Handle the eaddrinuse error:
+
+**app.js**
+```
+if(!module.parent) {
+  app.listen(3000);
+}
+```
 
 
 #
@@ -281,7 +289,7 @@ no forget the unit test and coverage with codecove
 ### bonus 1
 ##
 #
-// use express or other for expose this function in a 
+// use express or other for expose this functions and all other of this day
 
 #
 ##
@@ -297,7 +305,7 @@ no forget the unit test and coverage with codecove
 ### bonus 3
 ##
 #
-// create security test with 
+// create security test scan with 
 
 
 #
@@ -316,11 +324,3 @@ no forget the unit test and coverage with codecove
 // complete all with stress test 
 
 
-## Handle the eaddrinuse error:
-
-**app.js**
-```
-if(!module.parent) {
-  app.listen(3000);
-}
-```
