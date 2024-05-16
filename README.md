@@ -82,7 +82,7 @@ describe("The string package", () => {
 
 #
 ##
-### exercice 
+### exercice 0
 ##
 #
 // Make new describe
@@ -259,13 +259,62 @@ const app = require("../src/app");
 const server = supertest(app)
 ```
 
+
+
 #
 ##
 ### exercice 6
 ##
 #
-// use express or other for expose this function in a api
-//
+group 1, 3, 5
+create a function calldependance() for call the uri /action?name=<string>
+
+group 2,4,6
+create a function action(). this function take a string parameter and display this params in a message "hello <string> !".
+
+make a integration deployment with one functional test and one functional end to end test 
+
+no forget the unit test and coverage with codecove
+
+#
+##
+### bonus 1
+##
+#
+// use express or other for expose this function in a 
+
+#
+##
+### bonus 2
+##
+#
+// create secret scan test with gitleak
+
+
+
+#
+##
+### bonus 3
+##
+#
+// create security test with 
+
+
+#
+##
+### bonus 4
+##
+#
+// create a prereceive hook for run unit test and secret scan
+
+
+#
+##
+### bonus 5
+##
+#
+// complete all with stress test 
+
 
 ## Handle the eaddrinuse error:
 
