@@ -229,7 +229,7 @@ expect(next).toHaveBeenCalled();
 ## [Setup and Teardown](https://jestjs.io/docs/en/setup-teardown)
 #
 ##
-### exercice 5 (2 points)
+### exercice 5 (1 points)
 ##
 #
 // use beforeeach for create a new dataset named the << street name >> and << street number >> and set with a random faker data. For help use "npm i faker-br@0.1.0 " or other library
@@ -244,7 +244,7 @@ expect(next).toHaveBeenCalled();
 
 #
 ##
-### exercice 6 (2 points)
+### exercice 6 (3 points)
 ##
 #
 group 1, 3, 5
